@@ -1,3 +1,4 @@
+# fill the details in between to execute the code
 import  pyttsx3
 import speech_recognition as sr
 import datetime
@@ -40,8 +41,8 @@ def sendEmail(to,content):
     server=smtplib.SMTP('smtp.gmail.com',587)
     server.ehlo()
     server.starttls()
-    server.login('shahidansari.2088@gmail.com','s5432987624')
-    server.sendmail('shahidansari.2088@gmail.com',to,content)
+    server.login('your-name@gmail.com','password')
+    server.sendmail('your-name@gmail.com',to,content)
     server.close()
 if __name__ == "__main__":
     wishMe()
@@ -65,15 +66,15 @@ if __name__ == "__main__":
             strTime=datetime.datetime.now().strftime("%H:%M:%S")
             speak(f"Sir the time is {strTime}")
         elif 'open code' in query:
-            codePath="C:\\Users\\SHAMSUL HAQUE\\AppData\Local\\Programs\\Microsoft VS Code\\Code.exe"
+            codePath="your code path"
             os.startfile(codePath)
-        elif 'email to shahid' in query:
+        elif 'email to someone' in query:
             try:
                 speak("what should i say")
                 content=takeCommand()
-                to="shahidansari.2088@gmail.com"
+                to="receiver-name@gmail.com"
                 sendEmail(to,content)
                 speak("Email has been sent!")
             except Exception as e:
                 print(e)
-                speak("Sorry my friend shahid bhai.I am not able to send this email")
+                speak("Sorry my someone bhai.I am not able to send this email")
