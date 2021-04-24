@@ -47,13 +47,9 @@ $ python jarvis.py
 
 ## Contribution guidelines
 
-If you want to contribute to Shahid-jarvis, be sure to review the
+If you want to contribute to Shahid-jarvis, be sure to review the [contribution guidelines](https://github.com/Shahid-coder/Shahid-jarvis/blob/main/CONTRIBUTING.md).
 
-[contribution guidelines](https://github.com/Shahid-coder/Shahid-jarvis/blob/main/CONTRIBUTING.md).
-
-We use [GitHub issues](https://github.com/Shahid-coder/Shahid-jarvis/issues) for
-
-tracking requests and bugs.
+We use [GitHub issues](https://github.com/Shahid-coder/Shahid-jarvis/issues) for tracking requests and bugs.
 
 ## License 
 
