@@ -1,7 +1,7 @@
 # Shahid-jarvis
 This is a basic jarvis bot which i built in python.
 # Documentation
-[shahid-jarvis](https://github.com/Shahid-coder/Shahid-jarvis) is an end-to-end open source desktop ai assistant.
+[Shahid-jarvis](https://github.com/Shahid-coder/Shahid-jarvis) is an end-to-end open source desktop ai assistant.
 It is a comprehensive, flexible ai 
 that does everything you want.
 Shahid-jarvis was originally developed by shahid
