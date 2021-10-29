@@ -1,26 +1,23 @@
-# Shahid-jarvis
+# Shahid-jarvis😎
 This is a basic jarvis bot which i built in python.
 
 [![Language: python](https://img.shields.io/github/languages/top/shahid-coder/Shahid-jarvis)](https://python.org)
 [![Apache 2.0 License](https://img.shields.io/github/license/shahid-coder/Shahid-jarvis)](https://github.com/shahid-coder/Shahid-jarvis/LICENSE)
 [![GitHub contributors](https://img.shields.io/github/contributors/shahid-coder/Shahid-jarvis)](https://github.com/shahid-coder/Shahid-jarvis/graphs/contributors)
 
-# Documentation
+# Documentation📝
 [Shahid-jarvis](https://github.com/Shahid-coder/Shahid-jarvis) is an end-to-end open source desktop ai assistant.
 It is a comprehensive, flexible ai that does everything you want. Shahid-jarvis was originally developed by shahid
 
-## Install
+## Install🔥
 This project uses:
 1. pyttsx3
-
-You can install it by typing the below command.
-
 ```
-$ pip install pyttsx3
+pip install pyttsx3
 ```
 2. SpeechRecognition
 ```
-$ pip install SpeechRecognition
+pip install SpeechRecognition
 ```
 3. Datetime
 
@@ -28,14 +25,14 @@ No need to install this module .This module comes already with python.
 
 4. wikipedia
 ```
-$ pip install Wikipedia 
+pip install Wikipedia 
 ```
 5. Webbrowser,os and smtplib
 
 This module also comes already with python . So no need of installation . 
 To upgrade all this to the latest version, add `--upgrade` flag to the above commands.
 
-## clone
+## clone🦉
 > For Git bash
 
 To run this ai type the following command in your terminal . But remember you have to download python in your system .visit python.org for download .
@@ -49,13 +46,13 @@ $ python jarvis.py
 
 ```
 
-## Contribution guidelines
+## Contribution guidelines🤝
 
 If you want to contribute to Shahid-jarvis, be sure to review the [contribution guidelines](https://github.com/Shahid-coder/Shahid-jarvis/blob/main/CONTRIBUTING.md).
 
 We use [GitHub issues](https://github.com/Shahid-coder/Shahid-jarvis/issues) for tracking requests and bugs.
 
-## License 
+## License🔐
 
 For license see [License.md](https://github.com/Shahid-coder/Shahid-jarvis/blob/main/LICENSE)
 
